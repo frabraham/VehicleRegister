@@ -1,0 +1,14 @@
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\obj\Debug\net8.0\VehicleRegister.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\obj\Debug\net8.0\VehicleRegister.AssemblyInfoInputs.cache
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\obj\Debug\net8.0\VehicleRegister.AssemblyInfo.cs
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\obj\Debug\net8.0\VehicleRegister.csproj.CoreCompileInputs.cache
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\bin\Debug\net8.0\VehicleRegister.exe
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\bin\Debug\net8.0\VehicleRegister.deps.json
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\bin\Debug\net8.0\VehicleRegister.runtimeconfig.json
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\bin\Debug\net8.0\VehicleRegister.dll
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\bin\Debug\net8.0\VehicleRegister.pdb
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\obj\Debug\net8.0\VehicleRegister.dll
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\obj\Debug\net8.0\refint\VehicleRegister.dll
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\obj\Debug\net8.0\VehicleRegister.pdb
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\obj\Debug\net8.0\VehicleRegister.genruntimeconfig.cache
+F:\Backend studiet\VisualStudieProsjekter\VehicleRegister\VehicleRegister\obj\Debug\net8.0\ref\VehicleRegister.dll
